@@ -1,0 +1,17 @@
+{
+  "name": "agmstudio-frontend",
+  "description": "Diseño frontend del libro de AGM Studio",
+  "main": "index.html",
+  "authors": [
+    "xxzxx"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Deve0ps/agmstudio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
