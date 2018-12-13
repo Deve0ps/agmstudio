@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Deve0ps/agmstudio/issues"
   },
-  "homepage": "https://github.com/Deve0ps/agmstudio#readme"
+  "homepage": "https://github.com/Deve0ps/agmstudio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.1"
+  }
 }
